@@ -1,6 +1,6 @@
 <h1 align="center">hola 👋, soy aldo. </h1>
 <h2 align="center">Gracias por visitar mi perfil... </h2>
-<h3 align="center">Estudio python hace un tiempo.. Entre otras cosas me gusta enfrentar nuevos desafios y a aprender nuevas habilidades.. Los saludo y los invito a pasear por mis codigos... </h3>
+<h3 align="center">Estudio python hace un tiempo.. Entre otras cosas me gusta enfrentar nuevos desafios y a aprender nuevas habilidades.. Espero se encuentren bien, que mi perfil pueda serle de utilidad. Los invito a pasear por mis codigos y gracias... </h3>
 
 
 - 🔭 Otros [id for ideas](http://www.idforideas.com/), [codewars](https://www.codewars.com/), [freecodecamp](https://www.freecodecamp.org/)
