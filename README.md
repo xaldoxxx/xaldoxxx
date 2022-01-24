@@ -4,7 +4,7 @@
 - 🔭 Estoy trabajando en algunos proyectos de [id for ideas](http://www.idforideas.com/)
 
 
-- 🔭 y en los desafios de [codewars](http://www.idforideas.com/)
+- 🔭 y en los desafios de [codewars](https://www.codewars.com/)
 
 
 <h3 align="left">Connect with me:</h3>
