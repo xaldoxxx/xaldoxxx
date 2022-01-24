@@ -1,5 +1,5 @@
-<h1 align="center">hola 👋, yo soy aldo. Bienvenido a mi perfil...</h1>
-<h3 align="center">Soy un apasionado de la programación. Estudio python hace un tiempo..</h3>
+<h1 align="center">hola 👋, yo soy aldo. Gracias por visitar mi perfil...</h1>
+<h3 align="center">Soy un apasionado de la programación. Estudio python hace un tiempo.. Estoy buscando aprender nuevos desafios y nuevas habilidades</h3>
 
 - 🔭 Estoy trabajando en [id for ideas](www.idforideas.com)
 
