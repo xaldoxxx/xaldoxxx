@@ -1,5 +1,5 @@
 <h1 align="center">hola 👋, soy aldo. </h1>
-<h2 Gracias por visitar mi perfil... </h2>
+<h2 align="center">Gracias por visitar mi perfil... </h2>
 <h3 align="center">Estudio python hace un tiempo.. Entre otras cosas me interesa el conocimiento, los desafios y desarrollar nuevas habilidades.. Los saludo y los invito a pasear por mis codigos... </h3>
 
 
