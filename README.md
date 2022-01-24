@@ -1,7 +1,7 @@
-<h1 align="center">hola 👋, yo soy aldo. Gracias por visitar mi perfil...</h1>
-<h3 align="center">Soy un apasionado de la programación. Estudio python hace un tiempo.. Me interesa cobocer más, aprender nuevos desafios y desarrollar nuevas habilidades.. Los saludo y los invito a pasear por algunos de mis codigos... </h3>
+<h1 align="center">hola 👋, Soy aldo. Gracias por visitar mi perfil...</h1>
+<h3 align="center">Soy un apasionado de la programación. Estudio python hace un tiempo.. Entre otras cosas me interesa el conocimiento, aprender nuevos desafios y desarrollar nuevas habilidades.. Los saludo y los invito a pasear por algunos de mis codigos... </h3>
 
-- 🔭 Estoy trabajando en [id for ideas](www.idforideas.com)
+- 🔭 Estoy trabajando en algunos proyectos de [id for ideas](http://www.idforideas.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
