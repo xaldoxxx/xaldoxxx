@@ -1,11 +1,11 @@
 <h1 align="center">hola 👋, yo soy aldo. Gracias por visitar mi perfil...</h1>
-<h3 align="center">Soy un apasionado de la programación. Estudio python hace un tiempo.. Estoy buscando aprender nuevos desafios y nuevas habilidades</h3>
+<h3 align="center">Soy un apasionado de la programación. Estudio python hace un tiempo.. Me interesa cobocer más, aprender nuevos desafios y desarrollar nuevas habilidades.. Los saludo y los invito a pasear por algunos de mis codigos... </h3>
 
 - 🔭 Estoy trabajando en [id for ideas](www.idforideas.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin/aldo-19978.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
