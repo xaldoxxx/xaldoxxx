@@ -1,12 +1,12 @@
 <h1 align="center">hola 👋, soy aldo. </h1>
 <h2 align="center">Gracias por visitar mi perfil... </h2>
-<h3 align="center">Estudio python hace un tiempo.. Entre otras cosas me gusta enfrentar nuevos desafios y a aprender nuevas habilidades.. Espero se encuentren bien, que mi perfil pueda serle de utilidad. Los invito a pasear por mis codigos y gracias... </h3>
+<h3 align="center">Estudio python hace un tiempo.. Entre otras cosas me gusta enfrentar nuevos desafios, aprender nuevas habilidades, etc.. Espero se encuentren bien, y que mi perfil pueda serle de utilidad. Los invito a pasear por mis codigos y gracias... </h3>
 
 
 - 🔭 Otros [id for ideas](http://www.idforideas.com/), [codewars](https://www.codewars.com/), [freecodecamp](https://www.freecodecamp.org/)
 
 
-<h3 align="left">Mi contacto:</h3> <p> <a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a></p>
+<h3 align="left">Mi contacto:</h3> <p> <a> href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a></p>
 
 
 
