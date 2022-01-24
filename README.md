@@ -3,6 +3,10 @@
 
 - 🔭 Estoy trabajando en algunos proyectos de [id for ideas](http://www.idforideas.com/)
 
+
+- 🔭 y en los desafios de [codewars](http://www.idforideas.com/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a>
