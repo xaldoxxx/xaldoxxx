@@ -7,7 +7,7 @@
 - 🔭 y en los desafios de [codewars](https://www.codewars.com/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mi contacto:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a>
 </p>
