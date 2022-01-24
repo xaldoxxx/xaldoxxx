@@ -3,13 +3,10 @@
 <h3 align="center">Estudio python hace un tiempo.. Entre otras cosas me a estudiar, a enfrentar nuevos desafios y a desarrollar nuevas habilidades.. Los saludo y los invito a pasear por mis codigos... </h3>
 
 
-- 🔭 Ahora me dedico a un proyecto de [id for ideas](http://www.idforideas.com/)
+- 🔭 Otros [id for ideas](http://www.idforideas.com/), [codewars](https://www.codewars.com/), [freecodecamp](https://www.freecodecamp.org/)
 
 
-- 🔭 y a los desafios de [codewars](https://www.codewars.com/)
-
-
-<h3 align="left">Mi contacto:</h3> <p align="left"> <a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a></p>
+<h3 align="left">Mi contacto:</h3> <p> <a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a></p>
 
 
 
