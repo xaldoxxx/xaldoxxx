@@ -1,6 +1,6 @@
 <h1 align="center"> .. </h1>
-<h2 align="center">Gracias por visitar mi perfil... </h2>
-<h3 align="center">Estudio python hace un tiempo.. Entre otras cosas me gusta enfrentar nuevos desafios, aprender nuevas habilidades, etc.. Espero se encuentren bien, y que mi perfil pueda serle de utilidad. Los invito a pasear por mis codigos, saludos y gracias... Aldo</h3>
+<h2 align="center"> ... </h2>
+<h3 align="center">Espero mi perfil pueda serle de utilidad. Los invito a pasear por mis codigos, saludos y gracias... Aldo</h3>
 
 
 - 🔭 Otros [id for ideas](http://www.idforideas.com/), [codewars](https://www.codewars.com/), [freecodecamp](https://www.freecodecamp.org/)
