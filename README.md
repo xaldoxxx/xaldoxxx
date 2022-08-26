@@ -1,12 +1,12 @@
 <h1 align="center"> hola,  </h1>
 <h2 align="center"> soy aldo </h2>
-<h3 align="center">Actualmente estoy aprendiendo distintas librerias de python
+<h3 align="center">Actualmente estoy aprendiendo python
 
 👨‍💻algunos de mis proyectos están disponibles en https://xaldoxxx.com.ar/
 
 💬Preguntame sobre lo que necesites
 
-📄Conoce mis experiencias https://www.linkedin.com/in/aldo-manfredi-93118a217/
+📄Conoce mis experiencias en https://github.com/xaldoxxx/BlockDeNotas y https://www.linkedin.com/in/aldo-manfredi-93118a217/
 
 ⚡ jah!
 </h3>
