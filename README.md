@@ -1,6 +1,15 @@
-<h1 align="center"> .. </h1>
-<h2 align="center"> ... </h2>
-<h3 align="center">Espero mi perfil pueda serle de utilidad. Los invito a pasear por mis codigos, saludos y gracias... Aldo</h3>
+<h1 align="center"> hola,  </h1>
+<h2 align="center"> soy aldo </h2>
+<h3 align="center">Actualmente estoy aprendiendo distintas librerias de python
+
+👨‍💻algunos de mis proyectos están disponibles en https://xaldoxxx.com.ar/
+
+💬Preguntame sobre lo que necesites
+
+📄Conoce mis experiencias https://www.linkedin.com/in/aldo-manfredi-93118a217/
+
+⚡ jah!
+</h3>
 
 
 - 🔭 Otros [id for ideas](http://www.idforideas.com/), [codewars](https://www.codewars.com/), [freecodecamp](https://www.freecodecamp.org/)
