@@ -16,8 +16,6 @@ a superar desafios sobre diferentes algoritmos.
 </h3>
 
 
-- 🔭 Otros [id for ideas]([[freecodecamp](https://www.freecodecamp.org/)
-
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/xaldoxxx/badges/small/" alt="python" width="40" height="40"/> </a>
 
 
@@ -28,6 +26,11 @@ a superar desafios sobre diferentes algoritmos.
 <h3 align="left">Mi contacto:</h3> <p> <a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a></p>
 
 
+
+<p> <a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img src="https://www.codewars.com/users/xaldoxxx/badges/large?theme=light" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a></p>
+
+
+https://www.codewars.com/users/xaldoxxx/badges/large?theme=light
 
 
 <h3 align="left">lenguajes y librerias:</h3> 
