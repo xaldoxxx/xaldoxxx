@@ -17,6 +17,11 @@ a superar desafios sobre diferentes algoritmos.
 
 
 - 🔭 Otros [id for ideas]([[freecodecamp](https://www.freecodecamp.org/)
+
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/xaldoxxx/badges/small/" alt="python" width="40" height="40"/> </a>
+
+
+
  [codewars](https://www.codewars.com/users/xaldoxxx/badges/small/)]
 
 
