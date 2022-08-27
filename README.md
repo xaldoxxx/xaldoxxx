@@ -3,7 +3,6 @@
 <h3 align="center">Actualmente estoy aprendiendo python  
 
 Me dedico a extraer datos de la web y 
-
 a superar desafios sobre diferentes algoritmos. 
 
 
