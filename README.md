@@ -16,7 +16,7 @@ y a estudiar y superar desafios sobre diferentes algoritmos.
 </h3>
 
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/xaldoxxx/badges/small/" alt="python" width="40" height="40"/> </a>
+<p align="left"> <img src="https://www.codewars.com/users/xaldoxxx/badges/small/" alt="python" width="40" height="40"/> </a>
 
 
 
