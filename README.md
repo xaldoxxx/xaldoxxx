@@ -16,7 +16,7 @@ y a estudiar y superar desafios sobre diferentes algoritmos.
 </h3>
 
 
-<p align="left"> <img src="https://www.codewars.com/users/xaldoxxx/badges" alt="codewars" width="80" height="80"/> </a>
+<p align="left"> <img src="https://www.codewars.com/users/xaldoxxx/badges" alt="codewars" width="40" height="40"/> </a>
 
 
 
