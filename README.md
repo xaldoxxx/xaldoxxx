@@ -46,10 +46,11 @@ https://www.codewars.com/users/xaldoxxx/badges/large?theme=light
     <path fill="#ECB613" d="M15.083 34L7 20l8.083-14H63.58l8.083 14-8.083 14H15.083zm46.614-3.233L67.919 20 61.697 9.233H16.95L10.728 20l6.222 10.767h44.747z"/>
   </svg>
   
-  <img 
-       
-       
-
+  
+  
+  
+  
+  
   <svg width="400" height="40" viewBox="0 0 400 40" xmlns="http://www.w3.org/2000/svg">
     <path fill="#E4E4E4" d="M11.547 40L0 20 11.547 0h360.467v40z"/>
     <text fill="#262626" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" x="77" y="27">xaldoxxx</text>
@@ -61,7 +62,7 @@ https://www.codewars.com/users/xaldoxxx/badges/large?theme=light
     <path fill="#ECB613" d="M15.083 34L7 20l8.083-14H63.58l8.083 14-8.083 14H15.083zm46.614-3.233L67.919 20 61.697 9.233H16.95L10.728 20l6.222 10.767h44.747z"/>
   </svg>
   
-  >
+  
 
 
 <h3 align="left">lenguajes y librerias:</h3> 
