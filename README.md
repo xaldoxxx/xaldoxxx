@@ -10,9 +10,18 @@
 
 💬Preguntame sobre lo que necesites
 
-📄Conoce mis experiencias en https://github.com/xaldoxxx/BlockDeNotas y en https://www.linkedin.com/in/aldo-manfredi-93118a217/
+📄Conoce mis experiencias en 
+
+- https://www.codewars.com/users/xaldoxxx/ 
+
+- https://github.com/xaldoxxx/BlockDeNotas 
+
+- https://www.linkedin.com/in/aldo-manfredi-93118a217/
+
 
 ⚡ jah!
+
+
 </h3>
 <h3 align="left">Mi contacto:</h3> <p> <a href="https://www.linkedin.com/in/aldo-manfredi-93118a217/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin/aldo-19978.com" height="30" width="40" /></a></p>
 
