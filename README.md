@@ -11,10 +11,13 @@
 💬Preguntame sobre lo que necesites
 
 📄Conoce mis experiencias en 
+ 
 
-- https://www.codewars.com/users/xaldoxxx/ 
+- consola online para raspado https://www.xaldoxxx.pythonanywhere.com/ 
+ 
+- algoritmos en https://www.codewars.com/users/xaldoxxx/ 
 
-- https://github.com/xaldoxxx/BlockDeNotas 
+- notas https://github.com/xaldoxxx/BlockDeNotas 
 
 - https://www.linkedin.com/in/aldo-manfredi-93118a217/
 
