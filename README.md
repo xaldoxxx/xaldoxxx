@@ -13,7 +13,7 @@
 📄Conoce mis experiencias en 
  
 
-- consola online para raspado https://www.xaldoxxx.pythonanywhere.com/ 
+- consola online para raspado https://xaldoxxx.pythonanywhere.com/
  
 - algoritmos en https://www.codewars.com/users/xaldoxxx/ 
 
