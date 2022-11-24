@@ -1,21 +1,17 @@
 <h1 align="center"> hola,  </h1>
 <h2 align="center"> soy aldo </h2>
 <h3 align="center">
- Actualmente estoy aprendiendo python. 
- Me dedico a extraer datos de la web mediante web scraping y 
- a estudiar y superar desafios sobre diferentes algoritmos. 
+ Hola, tengo una consola de python online, 
+ juego con algunos algoritmos, 
+ tomo algunas notas, 
+ para de paso trabajar otros conceptos. Bueno. Ese soy yo.
 
 
-👨‍💻Algunos de mis proyectos están disponibles en https://xaldoxxx.com.ar/
+👨‍💻proyecto se va mutando en el tiempo https://xaldoxxx.com.ar/
 
-💬Preguntame sobre lo que necesites
-
-📄Conoce mis experiencias en 
+- consola python con scrapy y bs4 https://xaldoxxx.pythonanywhere.com/
  
-
-- consola online para raspado https://xaldoxxx.pythonanywhere.com/
- 
-- algoritmos en https://www.codewars.com/users/xaldoxxx/ 
+- algoritmos https://www.codewars.com/users/xaldoxxx/ 
 
 - notas https://github.com/xaldoxxx/BlockDeNotas 
 
