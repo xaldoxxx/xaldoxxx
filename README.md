@@ -16,7 +16,7 @@
  veo otros conceptos. 
  
  
- Bueno. Ese soy yo.
+ He dicho.
  
  
  
