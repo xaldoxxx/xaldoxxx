@@ -3,7 +3,8 @@
 <h3 align="center">
  
  
- Hola, tengo una consola de python online, +
+ 
+ tengo una consola de python online, +
  
  
  juego con algunos algoritmos, 
