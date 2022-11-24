@@ -27,8 +27,6 @@
 
 - notas https://github.com/xaldoxxx/BlockDeNotas 
 
-- https://www.linkedin.com/in/aldo-manfredi-93118a217/
-
 
 ⚡ jah!
 
