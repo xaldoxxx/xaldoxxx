@@ -1,10 +1,21 @@
 <h1 align="center"> hola,  </h1>
 <h2 align="center"> soy aldo </h2>
 <h3 align="center">
- Hola, tengo una consola de python online, 
+ 
+ 
+ Hola, tengo una consola de python online, +
+ 
+ 
  juego con algunos algoritmos, 
+ 
+ 
  tomo algunas notas, 
- para de paso trabajar otros conceptos. Bueno. Ese soy yo.
+ 
+ 
+ para de paso trabajar otros conceptos. 
+ 
+ 
+ Bueno. Ese soy yo.
 
 
 👨‍💻proyecto se va mutando en el tiempo https://xaldoxxx.com.ar/
