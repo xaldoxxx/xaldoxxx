@@ -13,13 +13,13 @@
  tomo algunas notas, 
  
  
- para de paso trabajar otros conceptos. 
+ veo otros conceptos. 
  
  
  Bueno. Ese soy yo.
 
 
-👨‍💻proyecto se va mutando en el tiempo https://xaldoxxx.com.ar/
+👨‍💻proyecto que se va mutando en el tiempo https://xaldoxxx.com.ar/
 
 - consola python con scrapy y bs4 https://xaldoxxx.pythonanywhere.com/
  
