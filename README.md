@@ -35,8 +35,6 @@
 - notas https://github.com/xaldoxxx/BlockDeNotas 
 
 
-⚡ jah!
-
 
   <svg width="400" height="40" viewBox="0 0 400 40" xmlns="http://www.w3.org/2000/svg">
     <path fill="#E4E4E4" d="M11.547 40L0 20 11.547 0h360.467v40z"/>
