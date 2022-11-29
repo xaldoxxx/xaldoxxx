@@ -32,7 +32,7 @@
  
 - algoritmos https://www.codewars.com/users/xaldoxxx/ 
 
-- notas https://github.com/xaldoxxx/BlockDeNotas 
+- notas para portfolio https://github.com/xaldoxxx/BlockDeNotas 
 
 
 
