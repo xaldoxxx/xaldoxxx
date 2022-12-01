@@ -1,5 +1,5 @@
 <h1 align="center"> hola,  </h1>
-<h2 align="center"> soy aldo </h2>
+<h2 align="center"> Sobre mi...  </h2>
 <h3 align="center">
  
  
@@ -26,13 +26,13 @@
  
 
 
-👨‍💻proyecto que se va mutando en el tiempo https://xaldoxxx.com.ar/
+👨‍💻Tengo un algo que se va mutando en el tiempo https://xaldoxxx.com.ar/
 
-- consola python con scrapy y bs4 https://xaldoxxx.pythonanywhere.com/
+- Una consola python con scrapy y bs4 https://xaldoxxx.pythonanywhere.com/
  
-- algoritmos https://www.codewars.com/users/xaldoxxx/ 
+- y tambien jugar con algoritmos https://www.codewars.com/users/xaldoxxx/ 
 
-- notas para portfolio https://github.com/xaldoxxx/BlockDeNotas 
+- y algunas notas para portfolio https://github.com/xaldoxxx/BlockDeNotas 
 
 
 
