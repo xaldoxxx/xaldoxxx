@@ -3,7 +3,16 @@
 <h3 align="center">
  
  
-* The Dev Ops Cycle: - Plan - Code - Build - Test - Release - Deploy - Operate - Monitor*
+ The Dev Ops Cycle: 
+ - Plan 
+ - Code 
+ - Build 
+ - Test 
+ - Release 
+ - Deploy 
+ - Operate 
+ - Monitor
+ 
  
  
  Hay una consola de python online, +
@@ -24,13 +33,13 @@
  
  
 
-👨‍💻Tengo un algo que se va mutando en el tiempo https://xaldoxxx.com.ar/
+👨‍hay un proyecto que va mutando en el tiempo https://xaldoxxx.com.ar/
 
-- Una consola python con scrapy y bs4 https://xaldoxxx.pythonanywhere.com/
+- y una consola python con scrapy y bs4 https://xaldoxxx.pythonanywhere.com/
  
-- y tambien jugar con algoritmos https://www.codewars.com/users/xaldoxxx/ 
+- para jugar con algunos algoritmos https://www.codewars.com/users/xaldoxxx/ 
 
-- y algunas notas para portfolio https://github.com/xaldoxxx/BlockDeNotas 
+- y tomar algunas notas para portfolio https://github.com/xaldoxxx/BlockDeNotas 
 
 
 
