@@ -2,17 +2,7 @@
 <h2 align="center"> Sobre mi...  </h2>
 <h3 align="center">
  
- 
- The Dev Ops Cycle: 
- - Plan 
- - Code 
- - Build 
- - Test 
- - Release 
- - Deploy 
- - Operate 
- - Monitor
- 
+ voy atravesado diferentes fases de desarrollo, integración, prueba, test, monitoreo... 
  
  
  Hay una consola de python online, +
