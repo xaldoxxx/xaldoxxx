@@ -30,6 +30,15 @@
  
  
 
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aprendo%2C+desaprendo+y+reaprendo)](https://git.io/typing-svg)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 👨‍💻Tengo un algo que se va mutando en el tiempo https://xaldoxxx.com.ar/
 
