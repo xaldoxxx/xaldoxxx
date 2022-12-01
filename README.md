@@ -9,7 +9,7 @@
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=seguramente+algo+te+va+interesar....+)](https://git.io/typing-svg)
 
- tengo una consola de python online, +
+ Hay una consola de python online, +
  
  
  para jugar con algunos algoritmos, 
@@ -22,19 +22,6 @@
  
  
  He dicho. Gracias.
- 
- 
- 
- 
- 
- 
- 
-
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aprendo%2C+desaprendo+y+reaprendo)](https://git.io/typing-svg)
- 
- 
- 
  
  
  
