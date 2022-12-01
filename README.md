@@ -7,16 +7,16 @@
  tengo una consola de python online, +
  
  
- juego con algunos algoritmos, 
+ para jugar con algunos algoritmos, 
  
  
- tomo algunas notas, 
+ y tomar algunas notas, 
  
  
- veo otros conceptos. 
+ y ver otros conceptos. 
  
  
- He dicho.
+ He dicho. Gracias.
  
  
  
