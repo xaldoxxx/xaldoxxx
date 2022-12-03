@@ -2,19 +2,15 @@
 <h2 align="center"> Sobre mi...  </h2>
 <h3 align="center">
  
- voy atravesado diferentes fases de desarrollo, integración, prueba, test, monitoreo... 
- 
  
  Hay una consola de python online, +
  
  
- para jugar con algunos algoritmos, 
+ para practicas sobre algoritmos, 
  
  
- y tomar algunas notas, 
+ y tomar notas, 
  
- 
- y ver otros conceptos. 
  
  
  He dicho. Gracias.
@@ -27,9 +23,9 @@
 
 - y una consola python con scrapy y bs4 https://xaldoxxx.pythonanywhere.com/
  
-- para jugar con algunos algoritmos https://www.codewars.com/users/xaldoxxx/ 
+- para ver algoritmos https://www.codewars.com/users/xaldoxxx/ 
 
-- y tomar algunas notas para portfolio https://github.com/xaldoxxx/BlockDeNotas 
+- y tomar apuntes  https://github.com/xaldoxxx/BlockDeNotas 
 
 
 
