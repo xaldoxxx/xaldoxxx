@@ -3,7 +3,26 @@
 <body>
 	<h1>hola.</h1>
 	<h2>Acerca de mí</h2>
-	<p>Después de años de esfuerzo y dedicación en diversos campos, como la hoteleria, la música, el amor y la paternidad, encontré en Python otra nueva vocación. A través de la creación de algoritmos y la exploración del scraping y el testing, he descubierto la belleza y la complejidad de la programación. Siempre estoy en búsqueda de nuevos desafíos y oportunidades de aprendizaje; a veces me gusta incursionar en el mundo del front end y ver lo que se puede hacer e incursionar en habilidades en diferentes áreas. Espero tener la oportunidad de poner mis habilidades a su disposición, y trabajar juntos para alcanzar los objetivos deseados. salud! aldo.</p>
+	<p>
+	
+Después de transitar por múltiples experiencias en diversos campos del conocimiento, como la gastronomía, la música, el amor y la paternidad, descubrí en Python una nueva pasión. Me asombró la complejidad y la belleza que esconde la programación, y desde entonces he explorado con pasión la creación de algoritmos y la técnica del scraping y el testing.
+</p>
+		
+		<p>
+Siempre busco desafíos nuevos, y disfruto de aventurarme en la vertiente del front end para descubrir nuevas habilidades y potenciales creativos. Estoy siempre en búsqueda de nuevos conocimientos y oportunidades para seguir creciendo en el campo de la tecnología.
+
+	</p>
+	<p>
+Espero que estas líneas sirvan como una carta de presentación que refleje mi amor por la programación, mi dedicación por el aprendizaje y mi compromiso por alcanzar objetivos ambiciosos. Sería un honor poder trabajar juntos para llevar adelante proyectos que nos llenen de orgullo y satisfacción.
+
+	</p>	
+		<p>
+Un abrazo fraterno,
+Aldo	
+	
+	
+	
+	</p>
 	<h2>Blog</h2>
 	<ul>
 		<li><a href="#">Mi primer proyecto de web scraping</a></li>
