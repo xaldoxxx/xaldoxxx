@@ -2,7 +2,7 @@
 <html>
 <body>
 	<h1>hola.</h1>
-	<h2>Acerca de mí</h2>
+	<h2 style="color: blue">Acerca de mí</h2>
 <p>Después de una larga travesía a través de diversas experiencias en distintas áreas del conocimiento, tales como la gastronomía, la música, el amor y la paternidad, encontré en Python una nueva pasión. Me sorprendió la complejidad y belleza que subyacen en el mundo de la programación, y desde entonces he explorado con vehemencia la creación de algoritmos y la técnica del scraping y el testing.</p>
 
 <p>Busco nuevos desafíos y oportunidades para seguir evolucionando en el mundo de la tecnología.</p>
