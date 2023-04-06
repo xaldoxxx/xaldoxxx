@@ -7,15 +7,20 @@
 
 <p>Busco nuevos desafíos y oportunidades para seguir evolucionando en el mundo de la tecnología.</p>
 
-<p>Espero que estas palabras sean una carta de presentación que refleje mi amor por la programación, mi dedicación por el aprendizaje y mi compromiso por alcanzar objetivos audaces. Sería un honor colaborar en proyectos que me haga y nos hagan sentir orgullosos y satisfechos.</p>
+<p>Espero que estas palabras sean una carta de presentación que refleje mi amor por la programación, mi dedicación por el aprendizaje y mi compromiso por alcanzar objetivos audaces. Sería un honor colaborar en proyectos que nos hagan sentir orgullosos y satisfechos.</p>
 
 <p>Con mi más sincero aprecio,</p>
 <p>Aldo</p>
-	<h2>mis cosas..</h2>
+	<h2>Mis cosas..</h2>
 	<ul>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb">primer proyecto de scraping, mirando twitter sin usar la api twitter</a></li>
-		<li><a href="#">Desarrollando un algoritmo de reconocimiento de imágenes</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb">algoritmos codewars</a></li>
 		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
+		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
+		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
+		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
+		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
+		
 	</ul>
 </body>
 </html>
