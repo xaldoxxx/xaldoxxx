@@ -17,9 +17,9 @@
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb">algoritmos codewars</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/arrays6kyu.ipynb">arrays 6 kyu</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mlibre_csv.ipynb">precios mercadolibre a dataframe</a></li>
-		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/shodanColab.ipynb">shodan, jugando sucio</a></li>
-		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
-		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/shodanColab.ipynb">shodan, ¿jugando sucio?</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/scraPY002.ipynb">usando scrapy</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/selenium.ipynb">selenium en colab version 2023</a></li>
 		
 	</ul>
 </body>
