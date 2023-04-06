@@ -15,9 +15,9 @@
 	<ul>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb">primer proyecto de scraping, mirando twitter sin usar la api twitter</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb">algoritmos codewars</a></li>
-		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
-		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
-		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/arrays6kyu.ipynb">arrays 6 kyu</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mlibre_csv.ipynb">precios mercadolibre a dataframe</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/shodanColab.ipynb">shodan, jugando sucio</a></li>
 		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
 		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
 		
