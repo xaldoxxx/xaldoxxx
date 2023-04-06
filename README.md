@@ -13,7 +13,7 @@
 <p>Aldo</p>
 	<h2>mis cosas..</h2>
 	<ul>
-		<li><a href="#">Mi primer proyecto de web scraping</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb">primer proyecto de scraping, mirando twitter sin usar la api twitter</a></li>
 		<li><a href="#">Desarrollando un algoritmo de reconocimiento de imágenes</a></li>
 		<li><a href="#">Incluyendo pruebas en mi proceso de desarrollo</a></li>
 	</ul>
