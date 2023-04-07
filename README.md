@@ -3,13 +3,12 @@
 <body>
 	<h1>hola.</h1>
 	<h2 style="color: blue">Acerca de mí</h2>
-<p>Después de una larga travesía a través de diversas experiencias en distintas áreas del conocimiento, tales como la gastronomía, la música, el amor y la paternidad, encontré en Python una nueva pasión. Hace algún tiempo, me adentré en el mundo de la programación sin saber exactamente qué esperar. Lo que encontré, sin embargo, me sorprendió gratamente: una complejidad y belleza subyacentes en cada línea de código, en cada algoritmo, en cada prueba que hacía. Desde entonces, me he entregado con pasión a la creación de algoritmos y a la técnica del scraping y el testing, descubriendo en cada proyecto nuevos retos y oportunidades para mejorar mis habilidades.</p>
-	
-<p>Busco nuevos desafíos y oportunidades para seguir evolucionando en el mundo de la tecnología.</p>
+<p>Aquí va mi descripción, supongo. Después de mucho vagar por distintas áreas del conocimiento, como la gastronomía, la música, el amor y la paternidad (¿realmente importa algo de esto?), llegué a Python y a la programación en general. Descubrí que cada línea de código tiene una belleza subyacente, y me di cuenta de que puedo pasar horas creando algoritmos, haciendo scraping y testing (sí, eso es lo emocionante de mi vida). No busco nada en particular, sólo más retos y oportunidades para demostrar mi habilidad (o mi inutilidad, quién sabe). Supongo que trabajar en proyectos que nos hagan sentir orgullosos y satisfechos es lo más cercano a la felicidad que podemos obtener.</p>
 
-<p>Espero que estas palabras sean una carta de presentación que refleje mi no se qué por la programación, mi dedicación por el aprendizaje y mi compromiso por alcanzar objetivos mas comprometidos. Sería un placer colaborar en proyectos que nos hagan sentir orgullosos y satisfechos.</p>
+<p>Pero bueno, todo es temporal, ¿no? Tal vez mañana nada de esto importe. O tal vez nunca importó. Quién sabe.</p>
 
-<p>Con mi más sincero aprecio,</p>
+<p>Con sinceridad (o algo así),</p>
+
 <p>Aldo</p>
 	<h2>Mis cosas..</h2>
 	<ul>
