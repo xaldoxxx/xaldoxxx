@@ -25,11 +25,11 @@ Aldo</p>
 
 	<h2>Mis sonceras..</h2>
 	<ul>
-		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb">primer proyecto de scraping, mirando twitter sin usar la api twitter</a></li>
-		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb">algoritmos codewars</a></li>
-		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/arrays6kyu.ipynb">arrays 6 kyu</a></li>
-		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mlibre_csv.ipynb">precios mercadolibre a dataframe</a></li>
-		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/shodanColab.ipynb">shodan, ¿jugando sucio?</a></li>
+	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb">primer proyecto de scraping, mirando twitter sin usar la api twitter</a></li>
+	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb">algoritmos codewars</a></li>
+	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/arrays6kyu.ipynb">arrays 6 kyu</a></li>
+	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mlibre_csv.ipynb">precios mercadolibre a dataframe</a></li>
+	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/shodanColab.ipynb">shodan, ¿jugando sucio?</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/scraPY002.ipynb">usando scrapy</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/selenium.ipynb">selenium en colab version 2023</a></li>
 		
