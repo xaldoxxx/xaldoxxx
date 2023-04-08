@@ -23,7 +23,7 @@ Con toda humildad, con sinceridad (o algo así),
 
 Aldo</p>
 
-	<h2>Mis sonceras..</h2>
+<h2>Mis sonceras..</h2>
 	<ul>
 	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb">primer proyecto de scraping, mirando twitter sin usar la api twitter</a></li>
 	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb">algoritmos codewars</a></li>
