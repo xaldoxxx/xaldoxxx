@@ -8,7 +8,7 @@
 Repito me dedico a trabajar en proyectos que nos hagan sentir orgullosos y satisfechos, es lo más cercano a la felicidad que podemos obtener.	
 	
 	
-	Imagínate un día soleado, en el que te sientes bien y confiado. Estás en el parque con tus amigos y tienes un balón en las manos. De repente, se te ocurre un juego nuevo, uno que nunca habías probado antes. Después de algunas pruebas y ajustes, empiezas a jugar y te das cuenta de que todos están disfrutando el juego tanto como tú. Te sientes orgulloso y satisfecho de haber creado algo que le da alegría y diversión a tus amigos.
+Imagínate un día soleado, en el que te sientes bien y confiado. Estás en el parque con tus amigos y tienes un balón en las manos. De repente, se te ocurre un juego nuevo, uno que nunca habías probado antes. Después de algunas pruebas y ajustes, empiezas a jugar y te das cuenta de que todos están disfrutando el juego tanto como tú. Te sientes orgulloso y satisfecho de haber creado algo que le da alegría y diversión a tus amigos.
 
 Esta misma sensación es la que siento cuando trabajo en proyectos que me desafían y me permiten usar mi creatividad y habilidades para resolver problemas. Cada vez que logro superar un obstáculo, siento un gran sentido de satisfacción y orgullo. Estos proyectos pueden ser pequeños o grandes, simples o complejos, pero todos tienen algo en común: me permiten crear algo que me hace sentir bien y útil.
 
