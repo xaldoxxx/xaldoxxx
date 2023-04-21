@@ -3,23 +3,13 @@
 <body>
 	<h1>hola.</h1>
 	<h2 style="color: blue">Acerca de mí</h2>
-<p>Aquí va mi descripción, supongo. Después de deambular por múltiples áreas del conocimiento, desde la gastronomía hasta la música, el amor y la paternidad (¿realmente importa algo de esto?), he encontrado mi camino en Python y en la programación en general. Descubrí que cada línea de código tiene una belleza subyacente, y me he entregado con pasión a explorar los rincones más recónditos del algoritmo, el scraping y el testing (sí, eso es lo emocionante de mi vida). No busco nada en particular, solo más retos y oportunidades para demostrar mi valía (o mi inutilidad, quién sabe). Trabajar en proyectos que nos hagan sentir orgullosos y satisfechos es lo más cercano a la felicidad que podemos obtener.
-	
-Repito me dedico a trabajar en proyectos que nos hagan sentir orgullosos y satisfechos, esto viene a ser lo más cercano a la felicidad que podemos obtener. Quisiera poder creer que todo esto sirve para algo, o quiza no!
-	
-	
-Imagínate un día soleado, en el que te sentís bien y confiado. Estás en el parque con tus amigos y tenés una pelota en las manos. De repente, se te ocurre un juego nuevo, uno que nunca habías probado antes. Después de algunas pruebas y ajustes, empezás a jugar y te das cuenta de que todos están disfrutando el juego tanto como vos. Te sentís orgulloso y satisfecho de haber creado algo que le da alegría y diversión a tus amigos.
+<p>¡Hola! Soy Aldo Manfredi, un desarrollador devoto de Python. He aprendido a través de distintos cursos y proyectos personales, y he utilizado Python para automatizar y mejorar mi trabajo.
 
-Esta misma sensación es la que siento cuando trabajo en proyectos que me desafían y me permiten usar mi creatividad y habilidades para resolver problemas. Cada vez que logro superar un obstáculo, siento un gran sentido de satisfacción y orgullo. Estos proyectos pueden ser pequeños o grandes, simples o complejos, pero todos tienen algo en común: me permiten crear algo que me hace sentir bien y útil.
+Me interesé en Python y el análisis de datos desde el principio, pero luego descubrí mi amor por implementar y hacer deploy de sitios web con herramientas como Flask. Además, también disfruto desarrollando el front-end de los sitios para mejorar la experiencia de usuario.
 
-Creo que esta es una de las formas más cercanas a la felicidad que podemos obtener: trabajar en algo que nos apasiona y nos hace sentir orgullosos. Es cierto que nada es permanente en la vida, pero mientras estamos aquí, podemos disfrutar de la sensación de lograr algo y saber que hemos dejado una huella positiva en el mundo.
-	
-	
-	
+En mi tiempo libre, me gusta experimentar con nuevas tecnologías y seguir aprendiendo. Creo que como desarrollador, siempre hay oportunidades para mejorar y crecer.
 
-Pero, tambien esta la otra posibilidad, que "todo sea temporal, nada sea real", como dijo aquel escritor, y tal vez mañana nada de esto importe. O tal vez nunca importó. Es por eso que tengo la esperanza de que en algún momento mi trabajo pueda marcar una diferencia en el mundo.
-
-Con toda humildad, con sinceridad (o algo así),
+Si necesitas un desarrollador Python comprometido, ¡pdoes contactarme! Puedes encontrar mi correo electrónico en mi información de contacto o visitar mi sitio web para obtener más información sobre mi experiencia y habilidades. Saludos!
 
 Aldo</p>
 
