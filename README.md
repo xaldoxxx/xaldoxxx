@@ -15,7 +15,7 @@ Aldo</p>
 
 <h2>Mis cosas..</h2>
 	<ul>
-	<li><a href="[https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas002.ipynb">Apuestas Liga Profesional Argentina 2023 version 0001 </a></li>		
+	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas002.ipynb">Apuestas Liga Profesional Argentina 2023 version 0001 </a></li>		
 	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb">primer proyecto de scraping, mirando twitter sin usar la api twitter</a></li>
 	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb">algoritmos codewars</a></li>
 	<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/arrays6kyu.ipynb">arrays 6 kyu</a></li>
