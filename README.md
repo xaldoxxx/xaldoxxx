@@ -2,7 +2,7 @@
 <html>
 <body>
 	<h1>hola.</h1>
-	<h2 style="color: blue">Acerca de mí</h2>
+	<h2 style="color: blue">...</h2>
 <p>¡Es un honor dirigirme a usted para expresar mi profundo interés en formar parte de su equipo como especializado en el manejo de datos, Python, WordPress y desarrollo web en general. Si bien mi experiencia hasta ahora se ha enfocado principalmente en proyectos personales, estoy entusiasmado por la oportunidad de compartir mis habilidades y pasión por estas áreas y aprovechar nuevas oportunidades para crecer y desarrollarme profesionalmente.</p>
 
 <p>A lo largo de mi trayectoria, he invertido tiempo y esfuerzo en proyectos personales en los que he aplicado mis conocimientos en el manejo de datos y la programación en Python. He adquirido experiencia valiosa en la recolección, limpieza y análisis de datos, así como en el desarrollo de soluciones personalizadas para automatizar tareas y mejorar la eficiencia. Estos proyectos me han permitido desarrollar una mentalidad analítica y una habilidad innata para convertir datos en información significativa.</p>
