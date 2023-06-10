@@ -3,7 +3,7 @@
 <body>
 	<h1>hola.</h1>
 	<h2 style="color: blue">...</h2>
-	<p>No te engañes pensando que mis habilidades se limitan a eso.</p>
+	<p>No te engañes pensando que mis habilidades se limitan a esto.</p>
 
 
 <h2>mis zonceras..</h2>
