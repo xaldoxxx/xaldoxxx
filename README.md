@@ -3,7 +3,7 @@
 <body>
 	<h1>hola.</h1>
 	<h2 style="color: blue">...</h2>
-<p>Aca hay un poco de guitarrero y otro de algoritmico, me dedico al manejo de datos, Python, WordPress y desarrollo web en general. Si bien mi experiencia hasta ahora se ha enfocado principalmente en proyectos personales.</p>
+	<p>No te engañes pensando que mis habilidades se limitan a eso.</p>
 
 
 <h2>mis zonceras..</h2>
