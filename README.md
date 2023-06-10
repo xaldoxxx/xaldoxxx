@@ -8,9 +8,10 @@
 
 <h2>mis zonceras..</h2>
 	<ul>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas004.ipynb">Algoritmo para Apuestas002 Liga Profesional Argentina 2023</a></li>
 		<li><a href="https://www.xaldoxxx.com.ar/calafatepizzas">pizzas</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/pizzasPrompt.ipynb">Prompts para blog de pizzas</a></li>		
-		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas002.ipynb">Algoritmo para Apuestas Liga Profesional Argentina 2023</a></li>		
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas002.ipynb">Algoritmo para Apuestas001 Liga Profesional Argentina 2023</a></li>		
 		<li><a href="https://pizzas.xaldoxxx.com.ar/">Blog en wordpress </a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb">primer proyecto de scraping, mirando twitter sin usar la api twitter</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb">algoritmos codewars</a></li>
