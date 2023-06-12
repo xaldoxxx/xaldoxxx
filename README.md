@@ -3,11 +3,12 @@
 <body>
 	<h1>hola.</h1>
 	<h2 style="color: blue">...</h2>
-	<p>No te engañes pensando que mis habilidades se limitan a esto.</p>
+	<p>No te engañes pensando que mis habilidades se limitan solo a esto..</p>
 
 
-<h2>mis zonceras..</h2>
+<h2>Mis zonceras..</h2>
 	<ul>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mido.ipynb">generador midi; contrapunto, blues y mas</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas004.ipynb">Algoritmo para Apuestas002 Liga Profesional Argentina 2023</a></li>
 		<li><a href="https://www.xaldoxxx.com.ar/calafatepizzas">pizzas</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/pizzasPrompt.ipynb">Prompts para blog de pizzas</a></li>		
