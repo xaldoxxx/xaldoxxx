@@ -9,6 +9,7 @@
 <h2>Mis zonceras..</h2>
 	<ul>
 		<li><a href="https://xaldoxxx.com.ar">Sitio personal, subido</a></li>
+	        <li><a href="https://xaldoxxx.pythonanywhere.com" target="_blank">Aprendiendo Flask</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mido.ipynb">generador midi; contrapunto, blues y mas</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas004.ipynb">Algoritmo para Apuestas002 Liga Profesional Argentina 2023</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/pizzasPrompt.ipynb">Prompts para blog de pizzas</a></li>		
@@ -20,15 +21,6 @@
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/shodanColab.ipynb">shodan, ¿jugando sucio?</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/scraPY002.ipynb">usando scrapy</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/selenium.ipynb">selenium en colab version 2023</a></li>                        
-	        <li><a href="https://xaldoxxx.pythonanywhere.com" target="_blank">Aprendiendo Flask</a></li>
-	        <li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/pizzasPrompt.ipynb" target="_blank">Prompts para blog de pizzas</a></li>
-	        <li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas002.ipynb" target="_blank">Script para apuestas Liga Profesional Argentina 2023 versión 0001</a></li>
-	        <li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/snscrape.ipynb" target="_blank">Primer proyecto de scraping: mirando Twitter sin usar la API de Twitter</a></li>
-	        <li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/codewars.ipynb" target="_blank">Algoritmos Codewars</a></li>
-	        <li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/arrays6kyu.ipynb" target="_blank">Arrays 6 kyu</a></li>
-	        <li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mlibre_csv.ipynb" target="_blank">Precios MercadoLibre a DataFrame</a></li>
-	        <li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/shodanColab.ipynb" target="_blank">Shodan, ¿jugando sucio?</a></li>
-	        <li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/selenium.ipynb" target="_blank">Selenium en Colab versión 2023</a></li>
 	        <li><a href="https://xaldoxxx.com.ar/app004" target="_blank">Pyscript</a></li>
 	        <li><a href="https://xaldoxxx.com.ar/app005" target="_blank">Pianito</a></li>
 	        <li><a href="https://xaldoxxx.com.ar/app006" target="_blank">Maiax001(dibujo)</a></li>
