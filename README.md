@@ -8,6 +8,7 @@
 
 <h2>Mis zonceras..</h2>
 	<ul>
+		<li><a href="https://xaldoxxx.com.ar">Sitio personal, subido</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mido.ipynb">generador midi; contrapunto, blues y mas</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/apuestas004.ipynb">Algoritmo para Apuestas002 Liga Profesional Argentina 2023</a></li>
 		<li><a href="https://pizza.xaldoxxx.com.ar/">pizza002, blog en wordpress </a></li>
