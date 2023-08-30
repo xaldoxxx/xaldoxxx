@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-        <title>¡Hola! 👋</title>
+        <h1>¡Hola! 👋</h1>
 	<h2 style="color: blue">...</h2>
         <p>Soy Aldo, un apasionado de la 🐍tecnología y un creador incansable de soluciones digitales. 🚀 Permíteme presentarte mi mundo de proyectos:</p>
      	<p>No te engañes pensando que mis habilidades se limitan solo a esto..</p>
