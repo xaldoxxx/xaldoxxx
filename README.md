@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>hola.</h1>
+        <title>¡Hola! 👋</title>
 	<h2 style="color: blue">...</h2>
-	<p>No te engañes pensando que mis habilidades se limitan solo a esto..</p>
-
-
-<h2>Mis zonceras..</h2>
+        <p>Soy Aldo, un apasionado de la 🐍tecnología y un creador incansable de soluciones digitales. 🚀 Permíteme presentarte mi mundo de proyectos:</p>
+     	<p>No te engañes pensando que mis habilidades se limitan solo a esto..</p>
 	<ul>
 		<li><a href="https://xaldoxxx.com.ar">Sitio personal, subido</a></li>
 	        <li><a href="https://xaldoxxx.pythonanywhere.com" target="_blank">Aprendiendo Flask</a></li>
