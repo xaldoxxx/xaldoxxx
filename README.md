@@ -18,8 +18,8 @@
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/mlibre_csv.ipynb">precios mercadolibre a dataframe</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/shodanColab.ipynb">shodan, ¿jugando sucio?</a></li>
 		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/scraPY002.ipynb">usando scrapy</a></li>
-		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/selenium.ipynb">selenium en colab version 2023</a></li>                        
-	        <li><a href="https://xaldoxxx.com.ar/app004" target="_blank">Pyscript</a></li>
+		<li><a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/selenium002.ipynb">selenium en colab version 2023</a></li>                        
+		<li><a href="https://xaldoxxx.com.ar/app004" target="_blank">Pyscript</a></li>
 	        <li><a href="https://xaldoxxx.com.ar/app005" target="_blank">Pianito</a></li>
 	        <li><a href="https://xaldoxxx.com.ar/app006" target="_blank">Maiax001(dibujo)</a></li>
 	        <li><a href="https://xaldoxxx.com.ar/app007" target="_blank">Maiax002(sonido-color)</a></li>
