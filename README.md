@@ -3,7 +3,7 @@
 <body>
         <h1>¡Hola! 👋</h1>
 	<h2 style="color: blue">...</h2>
-        <p>Soy Aldo, un apasionado de la 🐍tecnología y un creador incansable de soluciones digitales. 🚀 Permíteme presentarte mi mundo de proyectos:</p>
+        <p>Soy Aldo, un creador de soluciones digitales. 🚀 Permíteme presentarte mi mundo de proyectos:</p>
      	<p>No te engañes pensando que mis habilidades se limitan solo a esto..</p>
 	<ul>
 		<li><a href="https://xaldoxxx.com.ar">Sitio personal, subido</a></li>
