@@ -3,8 +3,8 @@
 <body>
         <h1>¡Hola! 👋</h1>
 	<h2 style="color: blue">...</h2>
-        <p>Soy Aldo, un creador de soluciones digitales. 🚀 Permíteme presentarte mi mundo de proyectos:</p>
-     	<p>No te engañes pensando que mis habilidades se limitan solo a esto..</p>
+        <p>"Me enfoco en automatizar tareas y desarrollar soluciones digitales. 🚀 Te presento "</p>
+     	<p>alguno de mis proyectos, aúm así es importante destacar que mis habilidades abarcan diversas áreas..</p>
 	<ul>
 		<li><a href="https://xaldoxxx.com.ar">Sitio personal, subido</a></li>
 	        <li><a href="https://xaldoxxx.pythonanywhere.com" target="_blank">Aprendiendo Flask</a></li>
