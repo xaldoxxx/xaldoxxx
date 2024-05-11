@@ -2,7 +2,7 @@
 <html>
 <body>
     <h1>¡Hola! 👋</h1>
-    <p>Me enfoco en automatizar tareas y desarrollar soluciones digitales. 🚀 Te presento algunos de mis proyectos, aunque es importante destacar que mis habilidades abarcan diversas áreas.</p>
+    <p>un poco de automata, un poco de codewars, un poco de raspado, de selenium, de bots, mucho de buscar... no se qué, pero mucho de buscar...</p>
     <ul>
         <li><a href="https://xaldoxxx.com.ar">Sitio personal, subido</a></li>
         <li><a href="https://xaldoxxx.pythonanywhere.com" target="_blank">Aprendiendo Flask</a></li>
