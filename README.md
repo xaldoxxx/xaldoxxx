@@ -10,6 +10,11 @@
         </a>
     </li>
     <li style="margin-bottom: 10px;">
+        <a href="https://xaldoxxx.com.ar/proyectos/app021" target="_blank" style="text-decoration: none; color: #FF5722; font-size: 1.2em;">
+            🎶 Blue Drag
+        </a>
+    </li>
+    <li style="margin-bottom: 10px;">
         <a href="https://xaldoxxx.pythonanywhere.com" target="_blank" style="text-decoration: none; color: #2196F3; font-size: 1.2em;">
             🚀 proyecto001
         </a>
@@ -32,11 +37,6 @@
     <li style="margin-bottom: 10px;">
         <a href="https://github.com/xaldoxxx/BlockDeNotas/blob/main/selenium002.ipynb" style="text-decoration: none; color: #E91E63; font-size: 1.2em;">
             🤖 Selenium en Colab versión 2023
-        </a>
-    </li>
-    <li style="margin-bottom: 10px;">
-        <a href="https://xaldoxxx.com.ar/app021" target="_blank" style="text-decoration: none; color: #FF5722; font-size: 1.2em;">
-            🎶 Blue Drag
         </a>
     </li>
 </ul>
