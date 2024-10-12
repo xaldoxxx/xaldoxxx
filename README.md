@@ -2,7 +2,7 @@
 <html>
 <body>
     <h1>¡Hola! 👋</h1>
-    <p>un poco de automata, un poco de codewars, un poco de raspado, de selenium, de bots, mucho de buscar... no se qué, pero mucho de buscar...</p>
+    <p>Acá va un poco de esto y un poco de lo otro... hay no se qué, pero mucho de buscar...</p>
     <ul>
         <li><a href="https://xaldoxxx.com.ar">Sitio personal, subido</a></li>
         <li><a href="https://xaldoxxx.pythonanywhere.com" target="_blank">proyecto001</a></li>
