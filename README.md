@@ -6,7 +6,7 @@
 <ul style="list-style: none; padding: 0; margin: 0; font-family: Arial, sans-serif;">
     <li style="margin-bottom: 10px;">
         <a href="https://xaldoxxx.com.ar" style="text-decoration: none; color: #4CAF50; font-size: 1.2em;">
-            🌐 Sitio personal, subido
+            🌐 Sitio personal, resubido
         </a>
     </li>
     <li style="margin-bottom: 10px;">
