@@ -10,7 +10,7 @@
         </a>
     </li>
     <li style="margin-bottom: 10px;">
-        <a href="https://xaldoxxx.com.ar/proyectos/app021" target="_blank" style="text-decoration: none; color: #FF5722; font-size: 1.2em;">
+        <a href="https://xaldoxxx.com.ar/proyectos/app021_bluedrag" target="_blank" style="text-decoration: none; color: #FF5722; font-size: 1.2em;">
             🎶 Blue Drag
         </a>
     </li>
