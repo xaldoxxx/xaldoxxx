@@ -16,12 +16,12 @@
     </li>
     <li style="margin-bottom: 10px;">
         <a href="https://xaldoxxx.pythonanywhere.com" target="_blank" style="text-decoration: none; color: #2196F3; font-size: 1.2em;">
-            🚀 proyecto001
+            🚀 proyecto001web.py
         </a>
     </li>
     <li style="margin-bottom: 10px;">
         <a href="https://xaldoxxxencualquierlugar.pythonanywhere.com" target="_blank" style="text-decoration: none; color: #FF9800; font-size: 1.2em;">
-            🛠️ proyecto002
+            🛠️ proyecto002web.py
         </a>
     </li>
     <li style="margin-bottom: 10px;">
