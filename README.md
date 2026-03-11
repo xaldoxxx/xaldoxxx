@@ -39,10 +39,10 @@
 
 <h2>🛠️ Soluciones que ofrezco</h2>
 <ul>
-  <li><b>Python & Automation:</b> Scraping avanzado (Selenium, BeautifulSoup, playwright) para análisis de mercado y catálogos.</li>
+  <li><b>Python & Automation:</b> Scraping (Selenium, BeautifulSoup, playwright) para análisis de mercado y catálogos.</li>
   <li><b>Desarrollo Web Ágil:</b> Aplicaciones funcionales con Flask, Bootstrap y Jinja3, con enfoque <i>responsive</i>.</li>
   <li><b>Cloud Workflow:</b> Gestión de servidores Linux y automatizaciones en Google Colab sin instalaciones locales.</li>
-  <li><b>Gestión de Datos:</b> Estructuración en SQL y procesamiento con Pandas/DataFrames.</li>
+  <li><b>Gestión de Datos:</b> Estructuración en SQL.</li>
 </ul>
 
 <hr />
