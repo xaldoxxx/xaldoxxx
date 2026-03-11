@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>¡Hola! Soy Aldo 👋</h1>
+  <h1>¡Hola! Soy Aldo</h1>
   <p align="center">
-    <strong>Full Stack | Python Enthusiast | Automation Expert</strong>
+    <strong>Full Stack?? | Python | Automation </strong>
   </p>
 
   <p>
@@ -21,11 +21,11 @@
     <td width="60%">
       <h2> sobre mí</h2>
       <p>
-        Soy un apasionado de la programación enfocado en <b>hacer la vida más fácil</b> a través de la automatización. 
+        Estudiante de programación enfocado en <b>hacer la vida más fácil</b> a través de la automatización. 
         Mi fuerte es transformar tareas manuales aburridas en procesos eficientes ejecutados en la nube.
       </p>
       <p>
-        Trabajo nativamente en entornos <i>cloud</i> (Linux, Colab, PythonAnywhere), lo que me permite prototipar rápido 
+        Trabajo nativamente en entornos <i>cloud</i> (Linux, Colab, PythonAnywhere), prefiero prototipar rápido 
         y asegurar que la lógica sea sólida antes de pasar a producción.
       </p>
     </td>
